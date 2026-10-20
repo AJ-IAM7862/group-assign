@@ -10,18 +10,18 @@ This tutorial outlines the process of assigning security groups to users in Entr
 - Windows 11
 <h2>Users Created</h2>
 <p>
-<img width="1717" height="695" alt="image"
-src="https://github.com/user-attachments/assets/a3cab2e0-2571-460d-ac6e-d5b884f2d1e9" />
+<img width="959" height="464" alt="AR Group " src="https://github.com/user-attachments/assets/edf140e2-ea9a-4004-9162-5b2221c08a3e" />
+
 </p>
 <p>
-Assigned HR-Staff-SecGroup to user Chris Walker.
+Assigned Administrative-Massive Dynamic Group to user Amy Rawlings.
 </p>
 <br />
 <p>
-<img width="1729" height="700" alt="image"
-src="https://github.com/user-attachments/assets/e4cfbd3d-7eef-4179-a571-7d96e3163ec0" />
+<img width="959" height="467" alt="CW Group" src="https://github.com/user-attachments/assets/37be029a-18f6-47e7-8ef7-fd9cfc472400" />
+
 </p>
 <p>
-Assigned Sales-Team-SecGroup to user Jordan Lee.
+Assigned Administrative-Massive Dynamic Group to user Chantel Wallace.
 </p>
 <br />
